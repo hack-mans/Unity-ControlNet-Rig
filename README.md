@@ -70,7 +70,7 @@ Follow these steps to get the project up and running.
 
 1. Clone this repo to your local drive
    ```
-   git clone https://github.com/hack-mans/OpenPoseUnity.git
+   git clone https://github.com/hack-mans/Unity-ControlNet-Rig.git
    ```
 2. Add the project folder to Unity Hub
    ```
